@@ -1,3 +1,4 @@
 def Hi():
-  return "Створив цей файл на гітхабі, щоб можна було клонувати репозиторій"
-print(Hi())
+  return "Hello, world"
+for i in range(10):
+    print(Hi())
